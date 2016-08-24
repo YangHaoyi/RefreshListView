@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#fff</color>
+    <color name="hkr_color_6">#1FA67B</color>
+    <color name="hkr_color_4">#FFFFFF</color>
+    <color name="transparent">#000000</color>
+    <color name="bg_order_status_green">#1EA679</color>
+    <color name="bg_order_status_gray">#999999</color>
+    <color name="divider_gray_color">#f2f2f2</color>
+    <color name="blur">#999999</color>
+    <color name="text_color_33">#333333</color>
+</resources>
